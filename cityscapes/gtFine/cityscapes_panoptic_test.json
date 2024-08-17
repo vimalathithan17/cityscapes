@@ -1,0 +1,613 @@
+{
+    "annotations": [
+        {
+            "file_name": "berlin_000143_000019_gtFine_panoptic.png",
+            "image_id": "berlin_000143_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "berlin_000172_000019_gtFine_panoptic.png",
+            "image_id": "berlin_000172_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "berlin_000242_000019_gtFine_panoptic.png",
+            "image_id": "berlin_000242_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "berlin_000354_000019_gtFine_panoptic.png",
+            "image_id": "berlin_000354_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "berlin_000375_000019_gtFine_panoptic.png",
+            "image_id": "berlin_000375_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "berlin_000418_000019_gtFine_panoptic.png",
+            "image_id": "berlin_000418_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "bielefeld_000000_005741_gtFine_panoptic.png",
+            "image_id": "bielefeld_000000_005741",
+            "segments_info": []
+        },
+        {
+            "file_name": "bielefeld_000000_016718_gtFine_panoptic.png",
+            "image_id": "bielefeld_000000_016718",
+            "segments_info": []
+        },
+        {
+            "file_name": "bielefeld_000000_021221_gtFine_panoptic.png",
+            "image_id": "bielefeld_000000_021221",
+            "segments_info": []
+        },
+        {
+            "file_name": "bielefeld_000000_028550_gtFine_panoptic.png",
+            "image_id": "bielefeld_000000_028550",
+            "segments_info": []
+        },
+        {
+            "file_name": "bielefeld_000000_036362_gtFine_panoptic.png",
+            "image_id": "bielefeld_000000_036362",
+            "segments_info": []
+        },
+        {
+            "file_name": "bielefeld_000000_038924_gtFine_panoptic.png",
+            "image_id": "bielefeld_000000_038924",
+            "segments_info": []
+        },
+        {
+            "file_name": "bonn_000007_000019_gtFine_panoptic.png",
+            "image_id": "bonn_000007_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "bonn_000014_000019_gtFine_panoptic.png",
+            "image_id": "bonn_000014_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "bonn_000026_000019_gtFine_panoptic.png",
+            "image_id": "bonn_000026_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "bonn_000033_000019_gtFine_panoptic.png",
+            "image_id": "bonn_000033_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "bonn_000037_000019_gtFine_panoptic.png",
+            "image_id": "bonn_000037_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "bonn_000043_000019_gtFine_panoptic.png",
+            "image_id": "bonn_000043_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "leverkusen_000031_000019_gtFine_panoptic.png",
+            "image_id": "leverkusen_000031_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "leverkusen_000034_000019_gtFine_panoptic.png",
+            "image_id": "leverkusen_000034_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "leverkusen_000038_000019_gtFine_panoptic.png",
+            "image_id": "leverkusen_000038_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "leverkusen_000042_000019_gtFine_panoptic.png",
+            "image_id": "leverkusen_000042_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "leverkusen_000048_000019_gtFine_panoptic.png",
+            "image_id": "leverkusen_000048_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "leverkusen_000051_000019_gtFine_panoptic.png",
+            "image_id": "leverkusen_000051_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "mainz_000000_001601_gtFine_panoptic.png",
+            "image_id": "mainz_000000_001601",
+            "segments_info": []
+        },
+        {
+            "file_name": "mainz_000000_006649_gtFine_panoptic.png",
+            "image_id": "mainz_000000_006649",
+            "segments_info": []
+        },
+        {
+            "file_name": "mainz_000001_005911_gtFine_panoptic.png",
+            "image_id": "mainz_000001_005911",
+            "segments_info": []
+        },
+        {
+            "file_name": "mainz_000001_018329_gtFine_panoptic.png",
+            "image_id": "mainz_000001_018329",
+            "segments_info": []
+        },
+        {
+            "file_name": "mainz_000001_028847_gtFine_panoptic.png",
+            "image_id": "mainz_000001_028847",
+            "segments_info": []
+        },
+        {
+            "file_name": "mainz_000003_000968_gtFine_panoptic.png",
+            "image_id": "mainz_000003_000968",
+            "segments_info": []
+        },
+        {
+            "file_name": "munich_000007_000019_gtFine_panoptic.png",
+            "image_id": "munich_000007_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "munich_000022_000019_gtFine_panoptic.png",
+            "image_id": "munich_000022_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "munich_000060_000019_gtFine_panoptic.png",
+            "image_id": "munich_000060_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "munich_000095_000019_gtFine_panoptic.png",
+            "image_id": "munich_000095_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "munich_000250_000019_gtFine_panoptic.png",
+            "image_id": "munich_000250_000019",
+            "segments_info": []
+        },
+        {
+            "file_name": "munich_000382_000019_gtFine_panoptic.png",
+            "image_id": "munich_000382_000019",
+            "segments_info": []
+        }
+    ],
+    "categories": [
+        {
+            "color": [
+                128,
+                64,
+                128
+            ],
+            "id": 7,
+            "isthing": 0,
+            "name": "road",
+            "supercategory": "flat"
+        },
+        {
+            "color": [
+                244,
+                35,
+                232
+            ],
+            "id": 8,
+            "isthing": 0,
+            "name": "sidewalk",
+            "supercategory": "flat"
+        },
+        {
+            "color": [
+                70,
+                70,
+                70
+            ],
+            "id": 11,
+            "isthing": 0,
+            "name": "building",
+            "supercategory": "construction"
+        },
+        {
+            "color": [
+                102,
+                102,
+                156
+            ],
+            "id": 12,
+            "isthing": 0,
+            "name": "wall",
+            "supercategory": "construction"
+        },
+        {
+            "color": [
+                190,
+                153,
+                153
+            ],
+            "id": 13,
+            "isthing": 0,
+            "name": "fence",
+            "supercategory": "construction"
+        },
+        {
+            "color": [
+                153,
+                153,
+                153
+            ],
+            "id": 17,
+            "isthing": 0,
+            "name": "pole",
+            "supercategory": "object"
+        },
+        {
+            "color": [
+                250,
+                170,
+                30
+            ],
+            "id": 19,
+            "isthing": 0,
+            "name": "traffic light",
+            "supercategory": "object"
+        },
+        {
+            "color": [
+                220,
+                220,
+                0
+            ],
+            "id": 20,
+            "isthing": 0,
+            "name": "traffic sign",
+            "supercategory": "object"
+        },
+        {
+            "color": [
+                107,
+                142,
+                35
+            ],
+            "id": 21,
+            "isthing": 0,
+            "name": "vegetation",
+            "supercategory": "nature"
+        },
+        {
+            "color": [
+                152,
+                251,
+                152
+            ],
+            "id": 22,
+            "isthing": 0,
+            "name": "terrain",
+            "supercategory": "nature"
+        },
+        {
+            "color": [
+                70,
+                130,
+                180
+            ],
+            "id": 23,
+            "isthing": 0,
+            "name": "sky",
+            "supercategory": "sky"
+        },
+        {
+            "color": [
+                220,
+                20,
+                60
+            ],
+            "id": 24,
+            "isthing": 1,
+            "name": "person",
+            "supercategory": "human"
+        },
+        {
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "id": 25,
+            "isthing": 1,
+            "name": "rider",
+            "supercategory": "human"
+        },
+        {
+            "color": [
+                0,
+                0,
+                142
+            ],
+            "id": 26,
+            "isthing": 1,
+            "name": "car",
+            "supercategory": "vehicle"
+        },
+        {
+            "color": [
+                0,
+                0,
+                70
+            ],
+            "id": 27,
+            "isthing": 1,
+            "name": "truck",
+            "supercategory": "vehicle"
+        },
+        {
+            "color": [
+                0,
+                60,
+                100
+            ],
+            "id": 28,
+            "isthing": 1,
+            "name": "bus",
+            "supercategory": "vehicle"
+        },
+        {
+            "color": [
+                0,
+                80,
+                100
+            ],
+            "id": 31,
+            "isthing": 1,
+            "name": "train",
+            "supercategory": "vehicle"
+        },
+        {
+            "color": [
+                0,
+                0,
+                230
+            ],
+            "id": 32,
+            "isthing": 1,
+            "name": "motorcycle",
+            "supercategory": "vehicle"
+        },
+        {
+            "color": [
+                119,
+                11,
+                32
+            ],
+            "id": 33,
+            "isthing": 1,
+            "name": "bicycle",
+            "supercategory": "vehicle"
+        }
+    ],
+    "images": [
+        {
+            "file_name": "berlin_000143_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "berlin_000143_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "berlin_000172_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "berlin_000172_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "berlin_000242_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "berlin_000242_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "berlin_000354_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "berlin_000354_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "berlin_000375_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "berlin_000375_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "berlin_000418_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "berlin_000418_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "bielefeld_000000_005741_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "bielefeld_000000_005741",
+            "width": 2048
+        },
+        {
+            "file_name": "bielefeld_000000_016718_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "bielefeld_000000_016718",
+            "width": 2048
+        },
+        {
+            "file_name": "bielefeld_000000_021221_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "bielefeld_000000_021221",
+            "width": 2048
+        },
+        {
+            "file_name": "bielefeld_000000_028550_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "bielefeld_000000_028550",
+            "width": 2048
+        },
+        {
+            "file_name": "bielefeld_000000_036362_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "bielefeld_000000_036362",
+            "width": 2048
+        },
+        {
+            "file_name": "bielefeld_000000_038924_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "bielefeld_000000_038924",
+            "width": 2048
+        },
+        {
+            "file_name": "bonn_000007_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "bonn_000007_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "bonn_000014_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "bonn_000014_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "bonn_000026_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "bonn_000026_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "bonn_000033_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "bonn_000033_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "bonn_000037_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "bonn_000037_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "bonn_000043_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "bonn_000043_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "leverkusen_000031_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "leverkusen_000031_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "leverkusen_000034_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "leverkusen_000034_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "leverkusen_000038_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "leverkusen_000038_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "leverkusen_000042_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "leverkusen_000042_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "leverkusen_000048_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "leverkusen_000048_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "leverkusen_000051_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "leverkusen_000051_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "mainz_000000_001601_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "mainz_000000_001601",
+            "width": 2048
+        },
+        {
+            "file_name": "mainz_000000_006649_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "mainz_000000_006649",
+            "width": 2048
+        },
+        {
+            "file_name": "mainz_000001_005911_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "mainz_000001_005911",
+            "width": 2048
+        },
+        {
+            "file_name": "mainz_000001_018329_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "mainz_000001_018329",
+            "width": 2048
+        },
+        {
+            "file_name": "mainz_000001_028847_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "mainz_000001_028847",
+            "width": 2048
+        },
+        {
+            "file_name": "mainz_000003_000968_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "mainz_000003_000968",
+            "width": 2048
+        },
+        {
+            "file_name": "munich_000007_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "munich_000007_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "munich_000022_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "munich_000022_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "munich_000060_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "munich_000060_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "munich_000095_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "munich_000095_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "munich_000250_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "munich_000250_000019",
+            "width": 2048
+        },
+        {
+            "file_name": "munich_000382_000019_gtFine_leftImg8bit.png",
+            "height": 1024,
+            "id": "munich_000382_000019",
+            "width": 2048
+        }
+    ]
+}
